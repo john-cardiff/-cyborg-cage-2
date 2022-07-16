@@ -238,3 +238,13 @@ Finally, we ran evaluation.py at random.seed(0) and achieved the following resul
 
         Terminal output:
         
+        Average reward for red agent B_lineAgent and steps 30 is: -3.4108000000000005 with a standard deviation of 1.7701572858977288
+        Average reward for red agent RedMeanderAgent and steps 30 is: -5.539 with a standard deviation of 1.2888600234936918
+        Average reward for red agent SleepAgent and steps 30 is: 0.0 with a standard deviation of 0.0
+        Average reward for red agent B_lineAgent and steps 50 is: -6.343799999999996 with a standard deviation of 2.4081654471445293
+        Average reward for red agent RedMeanderAgent and steps 50 is: -8.8347 with a standard deviation of 2.2001469397648314
+        Average reward for red agent SleepAgent and steps 50 is: 0.0 with a standard deviation of 0.0
+        Average reward for red agent B_lineAgent and steps 100 is: -13.237799999999984 with a standard deviation of 4.254330792320992
+        Average reward for red agent RedMeanderAgent and steps 100 is: -16.2844 with a standard deviation of 3.825688504378338
+        Average reward for red agent SleepAgent and steps 100 is: 0.0 with a standard deviation of 0.0
+        
